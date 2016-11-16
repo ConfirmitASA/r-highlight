@@ -2,7 +2,7 @@
   "name": "r-highlight",
   "version": "0.1.0",
   "description": "Class that utilises highlighting text",
-  "main": "src/highlight.js",
+  "main": "src/main.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/ConfirmitASA/r-highlight.git"
